@@ -38,8 +38,8 @@ function Details() {
         />
         <div className="absolute inset-0 flex h-120  ">
           <div className=" basis-4/4  flex items-center justify-center text-white bg-black opacity-50 h-120"></div>
-          <div className="p-4 absolute inset-0 w-1/2 flex flex-col justify-center text-white">
-            <h1 className="font-raleway text-3xl font-bold mb-2">{type == "movie" ? movie.title : movie.name}</h1>
+          <div className="p-4 absolute inset-0 w-9/9 lg:w-1/2 flex flex-col justify-center text-white">
+            <h1 className="font-raleway font-bold mb-2">{type == "movie" ? movie.title : movie.name}</h1>
             <p className="text-lg mb-4 font-inter">
               <strong>Release Date:</strong> {date}
             </p>
