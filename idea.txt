@@ -1,0 +1,19 @@
+| Movie Genres      | API Info                                   | Endpoints (TMDB)                        | Learn Next      |
+|-------------------|--------------------------------------------|------------------------------------------|-----------------|
+| 1. Action         | API KEY:                                   | Popular Movies           /movie/popular  | Firebase        |
+| 2. Adventure      | 6553143e191919351e391d1ce3b74e37           | Now Playing Movies       /movie/now_playing | MongoDB      |
+| 3. Comedy         |                                            | Top Rated Movies         /movie/top_rated | vue           |
+| 4. Drama          | API TOKEN:                                 | Upcoming Movies          /movie/upcoming  |                 |
+| 5. Fantasy        | eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI2NTUz...   | Movie Details            /movie/{movie_id}|                 |
+| 6. Horror         |                                            | Movie Credits (cast/crew)/movie/{movie_id}/credits |         |
+| 7. Mystery        |                                            | Movie Videos (trailers)  /movie/{movie_id}/videos |         |
+| 8. Romance        |                                            | Movie Images (backdrops) /movie/{movie_id}/images |         |
+| 9. Science Fiction|                                            | Movie Recommendations    /movie/{movie_id}/recommendations | |
+| 10. Thriller      |                                            | Similar Movies           /movie/{movie_id}/similar |         |
+| 11. Crime         |                                            | Search Movies            https://api.themoviedb.org/3/search/movie?api_key=YOUR_API_KEY&query=inception
+| 12. Animation     |                                            |                                      |                 |
+| 13. Documentary   |                                            |                                      |                 |
+| 14. Musical       |                                            |                                      |                 |
+| 15. Biography     |                                            |                                      |                 |
+| 16. Family        |                                            |                                      |                 |
+| 17. Sport         |                                            |                                      |                 |
