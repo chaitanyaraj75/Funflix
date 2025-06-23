@@ -28,6 +28,28 @@ Funflix is a movie and TV show discovery app that leverages the [TMDB API](https
 
 - **URL:** (https://funflixapp.netlify.app)
 
+## Screenshots
+
+Take a peek at Funflix in action:
+
+<p align="center">
+    <img src="./public/screenshots/landing-page.png" alt="Funflix Home" width="600"/>
+    <br>
+    <em>Home page: Discover trending movies and TV shows</em>
+</p>
+
+<p align="center">
+    <img src="./public/screenshots/details-page.png" alt="Movie Details" width="600"/>
+    <br>
+    <em>Details page: Dive deep into your favorite titles</em>
+</p>
+
+<p align="center">
+    <img src="./public/screenshots/search-results.png" alt="Search Feature" width="600"/>
+    <br>
+    <em>Search: Instantly find what you want to watch</em>
+</p>
+
 ## Author
 
 - **Name:** Chaitanya Raj
