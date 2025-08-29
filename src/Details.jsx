@@ -43,7 +43,10 @@ function Details() {
             <p className="text-lg mb-4 font-inter">
               <strong>Release Date:</strong> {date}
             </p>
-            <p className="font-inter"><strong>Genres:</strong> {movie.genres.map(g => g.name).join(", ")}</p>
+            <p className="text-lg mb-4 font-inter"><strong>Genres:</strong> {movie.genres.map(g => g.name).join(", ")}</p>
+            <p className="font-inter">
+              <strong>Flix Score:</strong> {movie.vote_average ? movie.vote_average.toFixed(2) : "N/A"}
+            </p>
             <p className="mt-4 font-inter text-[16px]/5">{movie.overview}</p>
           </div>
         </div>
